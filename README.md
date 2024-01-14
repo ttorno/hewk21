@@ -33,4 +33,4 @@ make
 sudo ./a.out
 ```
 done/laugh at kids crying while your winning 
-![alt text(_110982123_sdfsdfsdfsdf.png])
+![Screenshot](_110982123_sdfsdfsdfsdf.png])
