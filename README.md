@@ -33,7 +33,6 @@ make
 sudo ./a.out
 ```
 done/laugh at kids crying while your winning 
-![Screenshot](_110982123_sdfsdfsdfsdf.png])
 
 
 ![_110982123_sdfsdfsdfsdf](https://github.com/ttorno/hewk21/assets/102711008/bed2fdc1-a4dc-41f4-accd-6f4338f5886e)
