@@ -1,4 +1,4 @@
-## Intall build-essential (Mandatory. You only need to do this once) !!!
+## (made for damon) Intall build-essential (Mandatory. You only need to do this once) !!!
 ```
 sudo apt-get install build-essential
 ```
@@ -32,7 +32,4 @@ make
 ```
 sudo ./a.out
 ```
-done/laugh at kids crying while your winning 
-
-
-![_110982123_sdfsdfsdfsdf](https://github.com/ttorno/hewk21/assets/102711008/bed2fdc1-a4dc-41f4-accd-6f4338f5886e)
+done/laugh at kids crying while your winning(videogamezzzareboringanywayzzz)
